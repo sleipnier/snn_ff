@@ -1,0 +1,14 @@
+{
+  "run_id": "20260503_235551",
+  "dataset": "shd",
+  "method": "ff_v3",
+  "csv_path": "./result/v3/srm/SHD_srm_FF_v3_20260503_235551.csv",
+  "args_path": "./result/v3/srm/SHD_srm_FF_v3_20260503_235551_args.json",
+  "best_model_path": "./result/v3/srm/SHD_srm_FF_v3_20260503_235551_best_model.pth",
+  "final_model_path": "./result/v3/srm/SHD_srm_FF_v3_20260503_235551_final_model.pth",
+  "best_eval_acc": 0.8026960784313726,
+  "best_eval_macro_f1": 0.8009283050080708,
+  "final_heldout_test_acc": 0.7597173144876325,
+  "final_heldout_test_macro_f1": 0.7546130566716183,
+  "important_note": "Eval metrics use validation split when --val-ratio > 0; heldout_test is logged separately."
+}

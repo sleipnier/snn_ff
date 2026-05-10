@@ -1,0 +1,21 @@
+{
+  "epochs": 100,
+  "batch_size": 4096,
+  "num_workers": 4,
+  "time_steps": 10,
+  "hidden_dim": 500,
+  "num_layers": 2,
+  "seed": 2026,
+  "model": "dynsrm",
+  "tau": null,
+  "tau_response": 3.0,
+  "tau_refractory": 16.0,
+  "v_threshold": 1.0,
+  "v_reset": 0.0,
+  "lr": 0.001,
+  "alpha": 4.0,
+  "input_gain": 1.5,
+  "label_scale": 1.2,
+  "run_name": "dynsrm__id045__tr3__trefr16__vth1__lr0p001__a4__ig1p5__ls1p2",
+  "run_dir": "./result/fintune/runs/dynsrm__id045__tr3__trefr16__vth1__lr0p001__a4__ig1p5__ls1p2"
+}

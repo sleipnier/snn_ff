@@ -1,0 +1,21 @@
+{
+  "epochs": 100,
+  "batch_size": 4096,
+  "num_workers": 4,
+  "time_steps": 10,
+  "hidden_dim": 500,
+  "num_layers": 2,
+  "seed": 2026,
+  "model": "lif",
+  "tau": 2.0,
+  "tau_response": null,
+  "tau_refractory": null,
+  "v_threshold": 0.3,
+  "v_reset": 0.0,
+  "lr": 0.001,
+  "alpha": 4.0,
+  "input_gain": 1.0,
+  "label_scale": 0.8,
+  "run_name": "lif__id033__tau2__vth0p3__lr0p001__a4__ig1__ls0p8",
+  "run_dir": "./result/fintune/runs/lif__id033__tau2__vth0p3__lr0p001__a4__ig1__ls0p8"
+}

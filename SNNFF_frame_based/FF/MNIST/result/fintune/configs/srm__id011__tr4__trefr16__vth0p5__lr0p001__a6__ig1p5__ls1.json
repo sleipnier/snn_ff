@@ -1,0 +1,21 @@
+{
+  "epochs": 100,
+  "batch_size": 4096,
+  "num_workers": 4,
+  "time_steps": 10,
+  "hidden_dim": 500,
+  "num_layers": 2,
+  "seed": 2026,
+  "model": "srm",
+  "tau": null,
+  "tau_response": 4.0,
+  "tau_refractory": 16.0,
+  "v_threshold": 0.5,
+  "v_reset": 0.0,
+  "lr": 0.001,
+  "alpha": 6.0,
+  "input_gain": 1.5,
+  "label_scale": 1.0,
+  "run_name": "srm__id011__tr4__trefr16__vth0p5__lr0p001__a6__ig1p5__ls1",
+  "run_dir": "./result/fintune/runs/srm__id011__tr4__trefr16__vth0p5__lr0p001__a6__ig1p5__ls1"
+}

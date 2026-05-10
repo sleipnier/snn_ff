@@ -1,0 +1,19 @@
+{
+  "run_name": "dynsrm__id110__tr3__trefr6__vth1__lr0p001__ig0p8__wd0p0001__h256__L1",
+  "model": "dynsrm",
+  "dataset": "shd",
+  "method": "bp",
+  "out_dir": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/BP/SHD/result/fintune/shd_bp/runs/dynsrm__id110__tr3__trefr6__vth1__lr0p001__ig0p8__wd0p0001__h256__L1",
+  "cfg": {
+    "hidden_dim": 256,
+    "num_layers": 1,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "input_gain": 0.8,
+    "v_threshold": 1.0,
+    "v_reset": 0.0,
+    "tau": null,
+    "tau_response": 3.0,
+    "tau_refractory": 6.0
+  }
+}

@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# logs / outputs
+logs/
+runs/
+outputs/
+checkpoints/
+
+# large datasets
+data/
+dataset/
+datasets/
+
+# model weights
+*.pth
+*.pt
+*.ckpt

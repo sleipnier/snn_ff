@@ -1,0 +1,21 @@
+{
+  "run_name": "srm__id060__tr3__trefr12__vth0p5__lr0p0003__a4__ig1p5__ls0p8__wd0p0001__h500__L2",
+  "model": "srm",
+  "dataset": "shd",
+  "method": "ff",
+  "out_dir": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/SHD/result/fintune/shd_ff/runs/srm__id060__tr3__trefr12__vth0p5__lr0p0003__a4__ig1p5__ls0p8__wd0p0001__h500__L2",
+  "cfg": {
+    "hidden_dim": 500,
+    "num_layers": 2,
+    "lr": 0.0003,
+    "weight_decay": 0.0001,
+    "input_gain": 1.5,
+    "v_threshold": 0.5,
+    "v_reset": 0.0,
+    "alpha": 4.0,
+    "label_scale": 0.8,
+    "tau": null,
+    "tau_response": 3.0,
+    "tau_refractory": 12.0
+  }
+}

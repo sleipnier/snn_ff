@@ -1,0 +1,13 @@
+{
+  "run_id": "20260503_000735",
+  "dataset": "shd",
+  "method": "ff",
+  "csv_path": "./result/v2/lif/SHD_lif_FF_v2_append_label_20260503_000735.csv",
+  "args_path": "./result/v2/lif/SHD_lif_FF_v2_append_label_20260503_000735_args.json",
+  "best_model_path": "./result/v2/lif/SHD_lif_FF_v2_append_label_20260503_000735_best_model.pth",
+  "final_model_path": "./result/v2/lif/SHD_lif_FF_v2_append_label_20260503_000735_final_model.pth",
+  "best_eval_acc": 0.6237745098039216,
+  "best_eval_macro_f1": 0.6194858467617534,
+  "final_heldout_test_acc": 0.4500883392226148,
+  "final_heldout_test_macro_f1": 0.43803528673041436
+}

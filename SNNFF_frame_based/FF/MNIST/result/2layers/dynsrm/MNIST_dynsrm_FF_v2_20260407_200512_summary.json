@@ -1,0 +1,11 @@
+{
+  "run_id": "20260407_200512",
+  "csv_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512.csv",
+  "args_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512_args.json",
+  "best_test_confusion_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512_best_test_confusion.csv",
+  "final_test_confusion_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512_final_test_confusion.csv",
+  "best_model_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512_best_model.pth",
+  "final_model_path": "./result/2layers/dynsrm/MNIST_dynsrm_FF_v2_20260407_200512_final_model.pth",
+  "best_test_acc": 0.979,
+  "best_test_macro_f1": 0.9788585813682088
+}

@@ -1,0 +1,14 @@
+{
+  "run_id": "20260504_001337",
+  "dataset": "shd",
+  "method": "ff_v3",
+  "csv_path": "./result/v3/lif/SHD_lif_FF_v3_20260504_001337.csv",
+  "args_path": "./result/v3/lif/SHD_lif_FF_v3_20260504_001337_args.json",
+  "best_model_path": "./result/v3/lif/SHD_lif_FF_v3_20260504_001337_best_model.pth",
+  "final_model_path": "./result/v3/lif/SHD_lif_FF_v3_20260504_001337_final_model.pth",
+  "best_eval_acc": 0.6470588235294118,
+  "best_eval_macro_f1": 0.6437668906982627,
+  "final_heldout_test_acc": 0.5618374558303887,
+  "final_heldout_test_macro_f1": 0.5546925297483626,
+  "important_note": "Eval metrics use validation split when --val-ratio > 0; heldout_test is logged separately."
+}

@@ -1,0 +1,11 @@
+{
+  "run_id": "20260425_220054",
+  "csv_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054.csv",
+  "args_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054_args.json",
+  "best_test_confusion_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054_best_test_confusion.csv",
+  "final_test_confusion_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054_final_test_confusion.csv",
+  "best_model_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054_best_model.pth",
+  "final_model_path": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/MNIST/v2/result/timestep/srm/T8/MNIST_srm_FF_v2_20260425_220054_final_model.pth",
+  "best_test_acc": 0.9327,
+  "best_test_macro_f1": 0.9318992617345462
+}

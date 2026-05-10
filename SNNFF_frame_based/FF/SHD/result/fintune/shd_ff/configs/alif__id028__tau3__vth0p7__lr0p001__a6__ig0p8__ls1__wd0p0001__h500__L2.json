@@ -1,0 +1,21 @@
+{
+  "run_name": "alif__id028__tau3__vth0p7__lr0p001__a6__ig0p8__ls1__wd0p0001__h500__L2",
+  "model": "alif",
+  "dataset": "shd",
+  "method": "ff",
+  "out_dir": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/SHD/result/fintune/shd_ff/runs/alif__id028__tau3__vth0p7__lr0p001__a6__ig0p8__ls1__wd0p0001__h500__L2",
+  "cfg": {
+    "hidden_dim": 500,
+    "num_layers": 2,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "input_gain": 0.8,
+    "v_threshold": 0.7,
+    "v_reset": 0.0,
+    "alpha": 6.0,
+    "label_scale": 1.0,
+    "tau": 3.0,
+    "tau_response": null,
+    "tau_refractory": null
+  }
+}

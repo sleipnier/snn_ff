@@ -1,0 +1,21 @@
+{
+  "run_name": "lif__id006__tau4__vth1__lr0p002__a4__ig1__ls0p8__wd1em05__h256__L1",
+  "model": "lif",
+  "dataset": "shd",
+  "method": "ff",
+  "out_dir": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/FF/SHD/result/fintune/shd_ff/runs/lif__id006__tau4__vth1__lr0p002__a4__ig1__ls0p8__wd1em05__h256__L1",
+  "cfg": {
+    "hidden_dim": 256,
+    "num_layers": 1,
+    "lr": 0.002,
+    "weight_decay": 1e-05,
+    "input_gain": 1.0,
+    "v_threshold": 1.0,
+    "v_reset": 0.0,
+    "alpha": 4.0,
+    "label_scale": 0.8,
+    "tau": 4.0,
+    "tau_response": null,
+    "tau_refractory": null
+  }
+}

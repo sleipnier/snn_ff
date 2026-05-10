@@ -1,0 +1,13 @@
+{
+  "run_id": "20260422_102542",
+  "dataset": "shd",
+  "method": "bp",
+  "csv_path": "./result/2layers/srm/SHD_srm_BP_20260422_102542.csv",
+  "args_path": "./result/2layers/srm/SHD_srm_BP_20260422_102542_args.json",
+  "best_model_path": "./result/2layers/srm/SHD_srm_BP_20260422_102542_best_model.pth",
+  "final_model_path": "./result/2layers/srm/SHD_srm_BP_20260422_102542_final_model.pth",
+  "best_eval_acc": 0.8480392156862745,
+  "best_eval_macro_f1": 0.8440775779697951,
+  "final_heldout_test_acc": 0.676678445229682,
+  "final_heldout_test_macro_f1": 0.670644689989907
+}

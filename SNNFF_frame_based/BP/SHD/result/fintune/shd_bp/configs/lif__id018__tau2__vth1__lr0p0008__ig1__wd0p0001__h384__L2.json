@@ -1,0 +1,19 @@
+{
+  "run_name": "lif__id018__tau2__vth1__lr0p0008__ig1__wd0p0001__h384__L2",
+  "model": "lif",
+  "dataset": "shd",
+  "method": "bp",
+  "out_dir": "/home/yhxu/spikingjelly/spikingjelly/spikingjelly/SNNFF/BP/SHD/result/fintune/shd_bp/runs/lif__id018__tau2__vth1__lr0p0008__ig1__wd0p0001__h384__L2",
+  "cfg": {
+    "hidden_dim": 384,
+    "num_layers": 2,
+    "lr": 0.0008,
+    "weight_decay": 0.0001,
+    "input_gain": 1.0,
+    "v_threshold": 1.0,
+    "v_reset": 0.0,
+    "tau": 2.0,
+    "tau_response": null,
+    "tau_refractory": null
+  }
+}

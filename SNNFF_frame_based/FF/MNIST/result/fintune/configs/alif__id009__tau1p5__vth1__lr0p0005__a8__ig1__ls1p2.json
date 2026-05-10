@@ -1,0 +1,21 @@
+{
+  "epochs": 100,
+  "batch_size": 4096,
+  "num_workers": 4,
+  "time_steps": 10,
+  "hidden_dim": 500,
+  "num_layers": 2,
+  "seed": 2026,
+  "model": "alif",
+  "tau": 1.5,
+  "tau_response": null,
+  "tau_refractory": null,
+  "v_threshold": 1.0,
+  "v_reset": 0.0,
+  "lr": 0.0005,
+  "alpha": 8.0,
+  "input_gain": 1.0,
+  "label_scale": 1.2,
+  "run_name": "alif__id009__tau1p5__vth1__lr0p0005__a8__ig1__ls1p2",
+  "run_dir": "./result/fintune/runs/alif__id009__tau1p5__vth1__lr0p0005__a8__ig1__ls1p2"
+}
